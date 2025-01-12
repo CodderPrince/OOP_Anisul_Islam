@@ -1,7 +1,7 @@
 public class C100 {
 
   static class Teacher {
-    // properties
+    // all properties
     String name;
     int age;
   }
